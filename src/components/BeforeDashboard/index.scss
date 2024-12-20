@@ -2,7 +2,10 @@
 
 .dashboard .before-dashboard {
   margin-bottom: base(1.5);
-
+  // Thử thay đổi css của cái cục welcome thôi
+  font-size: medium;
+  border: 2px solid;
+  padding: base(1);
   &__banner {
     & h4 {
       margin: 0;
